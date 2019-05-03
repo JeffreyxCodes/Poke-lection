@@ -2,7 +2,7 @@
   "name": "jeffrey_xu_project2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jeffreyxdc.github.io/Poke-lection",
+  "homepage": "https://jeffreyxcodes.github.io/Poke-lection/",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.8.6",
